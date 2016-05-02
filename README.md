@@ -1,2 +1,2 @@
-# VirusThePanda.github.io
+# mjonesdev.github.io
 My website, holding information on me, my work, and other things.
