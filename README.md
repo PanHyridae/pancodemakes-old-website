@@ -1,7 +1,7 @@
 # mjonesdev.github.io
 My website, holding information on me, my work, and other things. This is currently being rewritten, and when done, will be open sourced under GPLv3. Note: This only applies to the code used. The images and other assets that are not code (images, sounds, etc) can not be used by anyone using the code of this website. This website was open-sourced due to GitHub's hosting, and to help others out that are trying to make similar style websites in HTML/CSS.  
 
-##New Website License
+## New Website License
 ````
  Personal Website and Portfolio of Marlon Jones
     Copyright (C) 2017 Marlon Jones
@@ -18,7 +18,7 @@ My website, holding information on me, my work, and other things. This is curren
 
 ````
 
-##Current License
+## Current License
 Please note that this license only applies to the version of the website currently using Personal Cards by Luca Cassani. Once this template has been removed, it will no longer apply to the website and will be changed in favor of GPLv3 shown above.
 ````
 This is free and unencumbered software released into the public domain.
