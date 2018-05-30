@@ -1,4 +1,4 @@
-# mjonesdev.github.io
+# Dezinkode.github.io
 My website, holding information on me, my work, and other things. This is currently being rewritten, and when done, will be open sourced under GPLv3. Note: This only applies to the code used. The images and other assets that are not code (images, sounds, etc) can not be used by anyone using the code of this website. This website was open-sourced due to GitHub's hosting, and to help others out that are trying to make similar style websites in HTML/CSS.  
 
 ## New Website License
